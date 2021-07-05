@@ -1,7 +1,7 @@
 <?php
 
     // Retrieving Json Data
-    $jsonData = file_get_contents("https://github.com/Satya990/tracker.github.io/blob/main/corona.json");
+    $jsonData = file_get_contents("https://pomber.github.io/covid19/timeseries.json");
     $data = json_decode($jsonData, true);
 
     // Counting the number of days in the Json File
