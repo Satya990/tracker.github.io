@@ -100,7 +100,7 @@
 
     <footer class="footer mt-auto py-3 bg-light">
         <div class="container text-center">
-            <span class="text-muted">Copyright &copy;2020, <a href="https://packetcode.in" target="_blank">Packetcode</a></span>
+            <span class="text-muted">Copyright &copy;2021, <a href="#" target="_blank">Satyam</a></span>
         </div>
     </footer>
 
